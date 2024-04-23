@@ -12,12 +12,12 @@ body{
     overflow: hidden;
 }
 #main-header{
-    background-color: light-blue;
-    color: dark-yellow;
+    background-color: rgb(24, 153, 233);
+    color: #f7e306;
 }
 #navbar{
-    background-color: light-blue;
-    color: dark-yellow;   
+    background-color: #f7e306;
+    color: rgb(24, 153, 233);   
 }
 
 #navbar ul{
@@ -30,13 +30,13 @@ body{
 }
 
 #navbar a{
-    color: blue;
+    color: rgb(24, 153, 233);
     text-decoration: none;
     font-size: 18px;
     padding-right: 15px;
 }
 #showcase{
-    background-image:url('..main/showcase.jpg');
+    background-image: url('../image/showcase.jpg');
 background-position: center right;
 min-height: 300px;
 margin-bottom: 30px;
@@ -44,7 +44,7 @@ text-align: center;
 }
 
 #showcase h1{
-    color: #fff;
+    color: rgb(101, 162, 248);
     font-size: 50px;
     line-height: 1.6em;
     padding-top: 30px;
@@ -60,13 +60,13 @@ text-align: center;
 #sidebar{
     float:right;
     width: 30%;
-    background: #333;
+    background: rgb(24, 153, 233);
     color: #fff;
     padding: 10px;
     box-sizing: border-box;
 }
 #main-footer{
-    background: #333;
+    background: rgb(24, 153, 233);
     color: #fff;
     text-align: center;
     padding: 20px;
