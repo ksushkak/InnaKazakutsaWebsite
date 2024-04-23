@@ -13,11 +13,11 @@ body{
 }
 #main-header{
     background-color: light-blue;
-    color: #fff;
+    color: dark-yellow;
 }
 #navbar{
-    background-color: #333;
-    color: #fff;   
+    background-color: light-blue;
+    color: dark-yellow;   
 }
 
 #navbar ul{
