@@ -12,8 +12,8 @@ body{
     overflow: hidden;
 }
 #main-header{
-    background-color: blue;
-    color: light-blue;
+    background-color: light-blue;
+    color: #fff;
 }
 #navbar{
     background-color: #333;
